@@ -9,4 +9,4 @@ The included R scripts load, process, and allow the user to perform a cross-spor
       For NFL players: `Approximate Value`
       For NBA players: `Value over Replacement Player`
       
-      ![](https://github.com/mattsavoca/scout-scraper/blob/master/charts/pos_value_facetspos.png)
+      ![image](https://github.com/mattsavoca/scout-scraper/blob/master/charts/pos_value_facetspos.png)
