@@ -1,0 +1,807 @@
+team,pos_group
+NA,UNK
+Anaheim Ducks,C
+Anaheim Ducks,D
+Anaheim Ducks,G
+Anaheim Ducks,W
+Angels,C
+Angels,INF
+Angels,OF
+Angels,P
+Arizona Cardinals,DB
+Arizona Cardinals,DL
+Arizona Cardinals,LB
+Arizona Cardinals,OL
+Arizona Cardinals,QB
+Arizona Cardinals,RB
+Arizona Cardinals,ST
+Arizona Cardinals,TE
+Arizona Cardinals,WR
+Arizona Coyotes,C
+Arizona Coyotes,D
+Arizona Coyotes,G
+Arizona Coyotes,W
+Astros,C
+Astros,INF
+Astros,OF
+Astros,P
+Athletics,C
+Athletics,INF
+Athletics,OF
+Athletics,P
+Atlanta Falcons,DB
+Atlanta Falcons,DL
+Atlanta Falcons,LB
+Atlanta Falcons,OL
+Atlanta Falcons,QB
+Atlanta Falcons,RB
+Atlanta Falcons,ST
+Atlanta Falcons,TE
+Atlanta Falcons,WR
+Atlanta Flames,C
+Atlanta Flames,D
+Atlanta Flames,G
+Atlanta Flames,W
+Atlanta Hawks,C
+Atlanta Hawks,F
+Atlanta Hawks,G
+Atlanta Hawks,UNK
+Atlanta Thrashers,C
+Atlanta Thrashers,D
+Atlanta Thrashers,G
+Atlanta Thrashers,W
+Baltimore Colts,DB
+Baltimore Colts,DL
+Baltimore Colts,LB
+Baltimore Colts,OL
+Baltimore Colts,QB
+Baltimore Colts,RB
+Baltimore Colts,ST
+Baltimore Colts,TE
+Baltimore Colts,WR
+Baltimore Ravens,DB
+Baltimore Ravens,DL
+Baltimore Ravens,LB
+Baltimore Ravens,OL
+Baltimore Ravens,QB
+Baltimore Ravens,RB
+Baltimore Ravens,ST
+Baltimore Ravens,TE
+Baltimore Ravens,WR
+Blue Jays,C
+Blue Jays,INF
+Blue Jays,OF
+Blue Jays,P
+Boise (minors),C
+Boise (minors),INF
+Boston Bruins,C
+Boston Bruins,D
+Boston Bruins,G
+Boston Bruins,None
+Boston Bruins,W
+Boston Celtics,C
+Boston Celtics,F
+Boston Celtics,G
+Boston Celtics,UNK
+Braves,C
+Braves,INF
+Braves,OF
+Braves,P
+Brewers,C
+Brewers,INF
+Brewers,OF
+Brewers,P
+Brooklyn Nets,C
+Brooklyn Nets,F
+Brooklyn Nets,G
+Buffalo Bills,DB
+Buffalo Bills,DL
+Buffalo Bills,LB
+Buffalo Bills,OL
+Buffalo Bills,QB
+Buffalo Bills,RB
+Buffalo Bills,ST
+Buffalo Bills,TE
+Buffalo Bills,WR
+Buffalo Sabres,C
+Buffalo Sabres,D
+Buffalo Sabres,G
+Buffalo Sabres,W
+Calgary Flames,C
+Calgary Flames,D
+Calgary Flames,G
+Calgary Flames,None
+Calgary Flames,W
+Cardinals,C
+Cardinals,INF
+Cardinals,OF
+Cardinals,P
+Carolina Hurricanes,C
+Carolina Hurricanes,D
+Carolina Hurricanes,G
+Carolina Hurricanes,W
+Carolina Panthers,DB
+Carolina Panthers,DL
+Carolina Panthers,LB
+Carolina Panthers,OL
+Carolina Panthers,QB
+Carolina Panthers,RB
+Carolina Panthers,ST
+Carolina Panthers,TE
+Carolina Panthers,WR
+Charlotte Bobcats,C
+Charlotte Bobcats,F
+Charlotte Bobcats,G
+Charlotte Bobcats,UNK
+Charlotte Hornets,C
+Charlotte Hornets,F
+Charlotte Hornets,G
+Charlotte Hornets,UNK
+Chicago Bears,DB
+Chicago Bears,DL
+Chicago Bears,LB
+Chicago Bears,OL
+Chicago Bears,QB
+Chicago Bears,RB
+Chicago Bears,ST
+Chicago Bears,TE
+Chicago Bears,WR
+Chicago Blackhawks,C
+Chicago Blackhawks,D
+Chicago Blackhawks,G
+Chicago Blackhawks,None
+Chicago Blackhawks,W
+Chicago Bulls,C
+Chicago Bulls,F
+Chicago Bulls,G
+Chicago Bulls,UNK
+Cincinnati Bengals,DB
+Cincinnati Bengals,DL
+Cincinnati Bengals,LB
+Cincinnati Bengals,OL
+Cincinnati Bengals,QB
+Cincinnati Bengals,RB
+Cincinnati Bengals,ST
+Cincinnati Bengals,TE
+Cincinnati Bengals,WR
+Cleveland Browns,DB
+Cleveland Browns,DL
+Cleveland Browns,LB
+Cleveland Browns,OL
+Cleveland Browns,QB
+Cleveland Browns,RB
+Cleveland Browns,ST
+Cleveland Browns,TE
+Cleveland Browns,WR
+Cleveland Cavaliers,C
+Cleveland Cavaliers,F
+Cleveland Cavaliers,G
+Cleveland Cavaliers,UNK
+Colorado Avalanche,C
+Colorado Avalanche,D
+Colorado Avalanche,G
+Colorado Avalanche,W
+Colorado Rockies,C
+Colorado Rockies,D
+Colorado Rockies,G
+Colorado Rockies,W
+Columbus Blue Jackets,C
+Columbus Blue Jackets,D
+Columbus Blue Jackets,G
+Columbus Blue Jackets,W
+Cubs,C
+Cubs,INF
+Cubs,OF
+Cubs,P
+D'backs,C
+D'backs,INF
+D'backs,OF
+D'backs,P
+Dallas Cowboys,DB
+Dallas Cowboys,DL
+Dallas Cowboys,LB
+Dallas Cowboys,OL
+Dallas Cowboys,QB
+Dallas Cowboys,RB
+Dallas Cowboys,ST
+Dallas Cowboys,TE
+Dallas Cowboys,WR
+Dallas Mavericks,C
+Dallas Mavericks,F
+Dallas Mavericks,G
+Dallas Mavericks,UNK
+Dallas Stars,C
+Dallas Stars,D
+Dallas Stars,G
+Dallas Stars,W
+Denver Broncos,DB
+Denver Broncos,DL
+Denver Broncos,LB
+Denver Broncos,OL
+Denver Broncos,QB
+Denver Broncos,RB
+Denver Broncos,ST
+Denver Broncos,TE
+Denver Broncos,WR
+Denver Nuggets,C
+Denver Nuggets,F
+Denver Nuggets,G
+Denver Nuggets,UNK
+Detroit Lions,DB
+Detroit Lions,DL
+Detroit Lions,LB
+Detroit Lions,OL
+Detroit Lions,QB
+Detroit Lions,RB
+Detroit Lions,ST
+Detroit Lions,TE
+Detroit Lions,WR
+Detroit Pistons,C
+Detroit Pistons,F
+Detroit Pistons,G
+Detroit Pistons,UNK
+Detroit Red Wings,C
+Detroit Red Wings,D
+Detroit Red Wings,G
+Detroit Red Wings,W
+Devil Rays,C
+Devil Rays,INF
+Devil Rays,OF
+Devil Rays,P
+Diamondbacks,C
+Diamondbacks,INF
+Diamondbacks,OF
+Diamondbacks,P
+Dodgers,C
+Dodgers,INF
+Dodgers,OF
+Dodgers,P
+Edmonton Oilers,C
+Edmonton Oilers,D
+Edmonton Oilers,G
+Edmonton Oilers,None
+Edmonton Oilers,W
+ERI,OF
+Expos,C
+Expos,INF
+Expos,OF
+Expos,P
+Florida Panthers,C
+Florida Panthers,D
+Florida Panthers,G
+Florida Panthers,W
+Giants,C
+Giants,INF
+Giants,OF
+Giants,P
+Golden State Warriors,C
+Golden State Warriors,F
+Golden State Warriors,G
+Golden State Warriors,UNK
+Green Bay Packers,DB
+Green Bay Packers,DL
+Green Bay Packers,LB
+Green Bay Packers,OL
+Green Bay Packers,QB
+Green Bay Packers,RB
+Green Bay Packers,ST
+Green Bay Packers,TE
+Green Bay Packers,WR
+Hartford Whalers,C
+Hartford Whalers,D
+Hartford Whalers,G
+Hartford Whalers,W
+Houston Oilers,DB
+Houston Oilers,DL
+Houston Oilers,LB
+Houston Oilers,OL
+Houston Oilers,QB
+Houston Oilers,RB
+Houston Oilers,ST
+Houston Oilers,TE
+Houston Oilers,WR
+Houston Rockets,C
+Houston Rockets,F
+Houston Rockets,G
+Houston Rockets,UNK
+Houston Texans,DB
+Houston Texans,DL
+Houston Texans,LB
+Houston Texans,OL
+Houston Texans,QB
+Houston Texans,RB
+Houston Texans,ST
+Houston Texans,TE
+Houston Texans,WR
+Indiana Pacers,C
+Indiana Pacers,F
+Indiana Pacers,G
+Indiana Pacers,UNK
+Indianapolis Colts,DB
+Indianapolis Colts,DL
+Indianapolis Colts,LB
+Indianapolis Colts,OL
+Indianapolis Colts,QB
+Indianapolis Colts,RB
+Indianapolis Colts,ST
+Indianapolis Colts,TE
+Indianapolis Colts,WR
+Indians,C
+Indians,INF
+Indians,OF
+Indians,P
+Jacksonville Jaguars,DB
+Jacksonville Jaguars,DL
+Jacksonville Jaguars,LB
+Jacksonville Jaguars,OL
+Jacksonville Jaguars,QB
+Jacksonville Jaguars,RB
+Jacksonville Jaguars,ST
+Jacksonville Jaguars,TE
+Jacksonville Jaguars,WR
+Kansas City Chiefs,DB
+Kansas City Chiefs,DL
+Kansas City Chiefs,LB
+Kansas City Chiefs,OL
+Kansas City Chiefs,QB
+Kansas City Chiefs,RB
+Kansas City Chiefs,ST
+Kansas City Chiefs,TE
+Kansas City Chiefs,WR
+Kansas City Kings,C
+Kansas City Kings,F
+Kansas City Kings,G
+Kansas City Kings,UNK
+Los Angeles Chargers,DB
+Los Angeles Chargers,DL
+Los Angeles Chargers,LB
+Los Angeles Chargers,OL
+Los Angeles Chargers,RB
+Los Angeles Chargers,WR
+Los Angeles Clippers,C
+Los Angeles Clippers,F
+Los Angeles Clippers,G
+Los Angeles Clippers,UNK
+Los Angeles Kings,C
+Los Angeles Kings,D
+Los Angeles Kings,G
+Los Angeles Kings,W
+Los Angeles Lakers,C
+Los Angeles Lakers,F
+Los Angeles Lakers,G
+Los Angeles Lakers,UNK
+Los Angeles Raiders,DB
+Los Angeles Raiders,DL
+Los Angeles Raiders,LB
+Los Angeles Raiders,OL
+Los Angeles Raiders,QB
+Los Angeles Raiders,RB
+Los Angeles Raiders,ST
+Los Angeles Raiders,TE
+Los Angeles Raiders,WR
+Los Angeles Rams,DB
+Los Angeles Rams,DL
+Los Angeles Rams,LB
+Los Angeles Rams,OL
+Los Angeles Rams,QB
+Los Angeles Rams,RB
+Los Angeles Rams,ST
+Los Angeles Rams,TE
+Los Angeles Rams,WR
+Mariners,C
+Mariners,INF
+Mariners,OF
+Mariners,P
+Marlins,C
+Marlins,INF
+Marlins,OF
+Marlins,P
+Memphis Grizzlies,C
+Memphis Grizzlies,F
+Memphis Grizzlies,G
+Mets,C
+Mets,INF
+Mets,OF
+Mets,P
+Miami Dolphins,DB
+Miami Dolphins,DL
+Miami Dolphins,LB
+Miami Dolphins,OL
+Miami Dolphins,QB
+Miami Dolphins,RB
+Miami Dolphins,ST
+Miami Dolphins,TE
+Miami Dolphins,WR
+Miami Heat,C
+Miami Heat,F
+Miami Heat,G
+Miami Heat,UNK
+Miami Miracle,C
+Miami Miracle,INF
+Miami Miracle,OF
+Miami Miracle,P
+Milwaukee Bucks,C
+Milwaukee Bucks,F
+Milwaukee Bucks,G
+Milwaukee Bucks,UNK
+Minnesota North Stars,C
+Minnesota North Stars,D
+Minnesota North Stars,G
+Minnesota North Stars,W
+Minnesota Timberwolves,C
+Minnesota Timberwolves,F
+Minnesota Timberwolves,G
+Minnesota Timberwolves,UNK
+Minnesota Vikings,DB
+Minnesota Vikings,DL
+Minnesota Vikings,LB
+Minnesota Vikings,OL
+Minnesota Vikings,QB
+Minnesota Vikings,RB
+Minnesota Vikings,ST
+Minnesota Vikings,TE
+Minnesota Vikings,WR
+Minnesota Wild,C
+Minnesota Wild,D
+Minnesota Wild,G
+Minnesota Wild,W
+Montreal Canadiens,C
+Montreal Canadiens,D
+Montreal Canadiens,G
+Montreal Canadiens,W
+Nashville Predators,C
+Nashville Predators,D
+Nashville Predators,G
+Nashville Predators,W
+Nationals,C
+Nationals,INF
+Nationals,OF
+Nationals,P
+New England Patriots,DB
+New England Patriots,DL
+New England Patriots,LB
+New England Patriots,OL
+New England Patriots,QB
+New England Patriots,RB
+New England Patriots,ST
+New England Patriots,TE
+New England Patriots,WR
+New Jersey Devils,C
+New Jersey Devils,D
+New Jersey Devils,G
+New Jersey Devils,None
+New Jersey Devils,W
+New Jersey Nets,C
+New Jersey Nets,F
+New Jersey Nets,G
+New Jersey Nets,UNK
+New Orleans Hornets,C
+New Orleans Hornets,F
+New Orleans Hornets,G
+New Orleans Hornets,UNK
+New Orleans Pelicans,C
+New Orleans Pelicans,F
+New Orleans Pelicans,G
+New Orleans Saints,DB
+New Orleans Saints,DL
+New Orleans Saints,LB
+New Orleans Saints,OL
+New Orleans Saints,QB
+New Orleans Saints,RB
+New Orleans Saints,ST
+New Orleans Saints,TE
+New Orleans Saints,WR
+New Orleans/Oklahoma City Hornets,F
+New Orleans/Oklahoma City Hornets,UNK
+New York Giants,DB
+New York Giants,DL
+New York Giants,LB
+New York Giants,OL
+New York Giants,QB
+New York Giants,RB
+New York Giants,ST
+New York Giants,TE
+New York Giants,WR
+New York Islanders,C
+New York Islanders,D
+New York Islanders,G
+New York Islanders,None
+New York Islanders,W
+New York Jets,DB
+New York Jets,DL
+New York Jets,LB
+New York Jets,OL
+New York Jets,QB
+New York Jets,RB
+New York Jets,ST
+New York Jets,TE
+New York Jets,WR
+New York Knicks,C
+New York Knicks,F
+New York Knicks,G
+New York Knicks,UNK
+New York Rangers,C
+New York Rangers,D
+New York Rangers,G
+New York Rangers,None
+New York Rangers,W
+Oakland Raiders,DB
+Oakland Raiders,DL
+Oakland Raiders,LB
+Oakland Raiders,OL
+Oakland Raiders,QB
+Oakland Raiders,RB
+Oakland Raiders,ST
+Oakland Raiders,TE
+Oakland Raiders,WR
+Oklahoma City Thunder,C
+Oklahoma City Thunder,F
+Oklahoma City Thunder,G
+Oklahoma City Thunder,UNK
+Orioles,C
+Orioles,INF
+Orioles,OF
+Orioles,P
+Orlando Magic,C
+Orlando Magic,F
+Orlando Magic,G
+Orlando Magic,UNK
+Ottawa Senators,C
+Ottawa Senators,D
+Ottawa Senators,G
+Ottawa Senators,W
+Padres,C
+Padres,INF
+Padres,OF
+Padres,P
+Philadelphia 76ers,C
+Philadelphia 76ers,F
+Philadelphia 76ers,G
+Philadelphia 76ers,UNK
+Philadelphia Eagles,DB
+Philadelphia Eagles,DL
+Philadelphia Eagles,LB
+Philadelphia Eagles,OL
+Philadelphia Eagles,QB
+Philadelphia Eagles,RB
+Philadelphia Eagles,ST
+Philadelphia Eagles,TE
+Philadelphia Eagles,WR
+Philadelphia Flyers,C
+Philadelphia Flyers,D
+Philadelphia Flyers,G
+Philadelphia Flyers,W
+Phillies,C
+Phillies,INF
+Phillies,OF
+Phillies,P
+Phoenix Cardinals,DB
+Phoenix Cardinals,DL
+Phoenix Cardinals,LB
+Phoenix Cardinals,OL
+Phoenix Cardinals,QB
+Phoenix Cardinals,RB
+Phoenix Cardinals,ST
+Phoenix Cardinals,TE
+Phoenix Cardinals,WR
+Phoenix Coyotes,C
+Phoenix Coyotes,D
+Phoenix Coyotes,G
+Phoenix Coyotes,W
+Phoenix Suns,C
+Phoenix Suns,F
+Phoenix Suns,G
+Phoenix Suns,UNK
+Pirates,C
+Pirates,INF
+Pirates,OF
+Pirates,P
+Pittsburgh Penguins,C
+Pittsburgh Penguins,D
+Pittsburgh Penguins,G
+Pittsburgh Penguins,None
+Pittsburgh Penguins,W
+Pittsburgh Steelers,DB
+Pittsburgh Steelers,DL
+Pittsburgh Steelers,LB
+Pittsburgh Steelers,OL
+Pittsburgh Steelers,QB
+Pittsburgh Steelers,RB
+Pittsburgh Steelers,ST
+Pittsburgh Steelers,TE
+Pittsburgh Steelers,WR
+Portland Trail Blazers,C
+Portland Trail Blazers,F
+Portland Trail Blazers,G
+Portland Trail Blazers,UNK
+Quebec Nordiques,C
+Quebec Nordiques,D
+Quebec Nordiques,G
+Quebec Nordiques,W
+Rangers,C
+Rangers,INF
+Rangers,OF
+Rangers,P
+Rays,C
+Rays,INF
+Rays,OF
+Rays,P
+Red Sox,C
+Red Sox,INF
+Red Sox,OF
+Red Sox,P
+Reds,C
+Reds,INF
+Reds,OF
+Reds,P
+Rockies,C
+Rockies,INF
+Rockies,OF
+Rockies,P
+Royals,C
+Royals,INF
+Royals,OF
+Royals,P
+Sacramento Kings,C
+Sacramento Kings,F
+Sacramento Kings,G
+Sacramento Kings,UNK
+San Antonio Spurs,C
+San Antonio Spurs,F
+San Antonio Spurs,G
+San Antonio Spurs,UNK
+San Diego Chargers,DB
+San Diego Chargers,DL
+San Diego Chargers,LB
+San Diego Chargers,OL
+San Diego Chargers,QB
+San Diego Chargers,RB
+San Diego Chargers,ST
+San Diego Chargers,TE
+San Diego Chargers,WR
+San Diego Clippers,C
+San Diego Clippers,F
+San Diego Clippers,G
+San Diego Clippers,UNK
+San Francisco 49ers,DB
+San Francisco 49ers,DL
+San Francisco 49ers,LB
+San Francisco 49ers,OL
+San Francisco 49ers,QB
+San Francisco 49ers,RB
+San Francisco 49ers,ST
+San Francisco 49ers,TE
+San Francisco 49ers,WR
+San Jose Sharks,C
+San Jose Sharks,D
+San Jose Sharks,G
+San Jose Sharks,W
+Seattle Seahawks,DB
+Seattle Seahawks,DL
+Seattle Seahawks,LB
+Seattle Seahawks,OL
+Seattle Seahawks,QB
+Seattle Seahawks,RB
+Seattle Seahawks,ST
+Seattle Seahawks,TE
+Seattle Seahawks,WR
+Seattle SuperSonics,C
+Seattle SuperSonics,F
+Seattle SuperSonics,G
+Seattle SuperSonics,UNK
+St. Louis Blues,C
+St. Louis Blues,D
+St. Louis Blues,G
+St. Louis Blues,None
+St. Louis Blues,W
+St. Louis Cardinals,DB
+St. Louis Cardinals,DL
+St. Louis Cardinals,LB
+St. Louis Cardinals,OL
+St. Louis Cardinals,QB
+St. Louis Cardinals,RB
+St. Louis Cardinals,ST
+St. Louis Cardinals,TE
+St. Louis Cardinals,WR
+St. Louis Rams,DB
+St. Louis Rams,DL
+St. Louis Rams,LB
+St. Louis Rams,OL
+St. Louis Rams,QB
+St. Louis Rams,RB
+St. Louis Rams,ST
+St. Louis Rams,TE
+St. Louis Rams,WR
+Tampa Bay Buccaneers,DB
+Tampa Bay Buccaneers,DL
+Tampa Bay Buccaneers,LB
+Tampa Bay Buccaneers,OL
+Tampa Bay Buccaneers,QB
+Tampa Bay Buccaneers,RB
+Tampa Bay Buccaneers,ST
+Tampa Bay Buccaneers,TE
+Tampa Bay Buccaneers,WR
+Tampa Bay Lightning,C
+Tampa Bay Lightning,D
+Tampa Bay Lightning,G
+Tampa Bay Lightning,W
+Tennessee Oilers,DB
+Tennessee Oilers,DL
+Tennessee Oilers,LB
+Tennessee Oilers,OL
+Tennessee Oilers,WR
+Tennessee Titans,DB
+Tennessee Titans,DL
+Tennessee Titans,LB
+Tennessee Titans,OL
+Tennessee Titans,QB
+Tennessee Titans,RB
+Tennessee Titans,TE
+Tennessee Titans,WR
+Tigers,C
+Tigers,INF
+Tigers,OF
+Tigers,P
+Toronto Maple Leafs,C
+Toronto Maple Leafs,D
+Toronto Maple Leafs,G
+Toronto Maple Leafs,W
+Toronto Raptors,C
+Toronto Raptors,F
+Toronto Raptors,G
+Toronto Raptors,UNK
+Twins,C
+Twins,INF
+Twins,OF
+Twins,P
+Utah Jazz,C
+Utah Jazz,F
+Utah Jazz,G
+Utah Jazz,UNK
+Vancouver Canucks,C
+Vancouver Canucks,D
+Vancouver Canucks,G
+Vancouver Canucks,W
+Vancouver Grizzlies,C
+Vancouver Grizzlies,F
+Vancouver Grizzlies,G
+Vancouver Grizzlies,UNK
+Vegas Golden Knights,C
+Vegas Golden Knights,D
+Vegas Golden Knights,G
+Vegas Golden Knights,W
+Washington Bullets,C
+Washington Bullets,F
+Washington Bullets,G
+Washington Bullets,UNK
+Washington Capitals,C
+Washington Capitals,D
+Washington Capitals,G
+Washington Capitals,None
+Washington Capitals,W
+Washington Redskins,DB
+Washington Redskins,DL
+Washington Redskins,LB
+Washington Redskins,OL
+Washington Redskins,QB
+Washington Redskins,RB
+Washington Redskins,ST
+Washington Redskins,TE
+Washington Redskins,WR
+Washington Wizards,C
+Washington Wizards,F
+Washington Wizards,G
+Washington Wizards,UNK
+White Sox,C
+White Sox,INF
+White Sox,OF
+White Sox,P
+Winnipeg Jets,C
+Winnipeg Jets,D
+Winnipeg Jets,G
+Winnipeg Jets,None
+Winnipeg Jets,W
+Yankees,C
+Yankees,INF
+Yankees,OF
+Yankees,P
