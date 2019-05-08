@@ -12,6 +12,9 @@ For NHL players: `Point-Share`
 For NFL players: `Approximate Value`
       
 For NBA players: `Value over Replacement Player`
+
+I spun up a shiny app, avilable below so you can anlyze the data for yourself:
+https://mattscottsavoca.shinyapps.io/multisport-scraper/
       
 
 ![image](https://github.com/mattsavoca/scout-scraper/blob/master/charts/pos_value_facetspos.png)
