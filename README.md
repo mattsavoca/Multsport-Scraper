@@ -1,5 +1,5 @@
-## Scout-Scraper
-**Scout Scraper** is a series of python scripts that scrape the last 40 years (1979-2018) of player selections in the four major US sports leagues.
+## Multsport-Scraper
+**Multsport-Scraper** is a series of python scripts that scrape the last 40 years (1979-2018) of player selections in the four major US sports leagues.
 
 The scripts utilize the scrapy package, and scrape *ProFootballReference.com, Basketball-reference.com, Hockey-reference.com*, and *Baseball-reference.com*. They export csvs with relavent player, team, and career statistical metrics.
 
